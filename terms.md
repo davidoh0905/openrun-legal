@@ -1,38 +1,30 @@
 # OpenRun Terms of Use
 
-**Effective September 24, 2026**
+**Effective September 24, 2026** · [Privacy Policy](./)
 
-OpenRun helps neighbors coordinate one easy, in-person run at a time. By creating an account or using OpenRun you agree to these terms. If you do not agree, please do not use the app.
+## Agreement
 
-## Zero tolerance for objectionable content and abuse
+By creating or signing in to an OpenRun account, you agree to these Terms of Use and the Community Safety Rules below. If you do not agree, do not sign in or use account features.
 
-OpenRun has **no tolerance for objectionable content or abusive users**.
+## Zero-tolerance safety rule
 
-You may not post, send, or share anything that is harassing, threatening, hateful, sexually explicit, violent, discriminatory, deceptive, spam, or otherwise objectionable — in run titles, notes, messages, photos, names, or handles. You may not impersonate others, target someone because of who they are, or use OpenRun to arrange anything other than a run.
+**OpenRun has zero tolerance for objectionable content or abusive users.** Do not post or send harassment, threats, hateful or discriminatory content, sexual content, spam, impersonation, illegal content, or anything that puts another person at risk — in run titles, notes, messages, photos, names, or handles.
 
-## Moderation
+## Reports, blocks, and enforcement
 
 - Content is screened automatically before it is published.
-- Anyone can **report** a run, a message, or a photo, and **block** another runner at any time, from the run card (⋯) or by long-pressing a message.
+- You can **report** objectionable runs, messages, or photos and **block** abusive users from the relevant run card (⋯) or by long-pressing a message.
 - We review reports and act **within 24 hours**: objectionable content is removed and users who post it are removed from OpenRun.
-- Blocked users cannot see your runs or contact you.
+- Serious safety concerns may be referred to the appropriate authorities.
 
-## Meeting in person
+## Your content and account
 
-Runs are organized by users, not by OpenRun. Use your judgment: meet in public places, share your plan with someone you trust, and leave any situation that feels wrong. OpenRun is not responsible for what happens at a run, and you participate at your own risk.
+You must be at least 13 years old. You are responsible for the runs, messages, profile details, and other content you provide. You keep ownership of your content and give OpenRun permission to host, display, and moderate it only as needed to operate and protect the service. Do not misuse another person’s identity or account. You can delete your account at any time from Settings.
 
-## Your account
+## Real-world meetups
 
-You must be at least 13 years old. Keep your account to yourself, use your real first name, and keep your information accurate. You can delete your account at any time from Settings. We may suspend or remove accounts that violate these terms.
+Use your judgment when meeting or running with others. Choose appropriate public places, tell someone your plan, and stop if a situation feels unsafe. OpenRun is a coordination service, not an emergency service, coach, or medical provider, and you participate at your own risk.
 
-## Your content
+## Privacy and contact
 
-You own what you post. You give OpenRun permission to show it to other users as needed to run the service (for example, your run card on the map or your message in a Run Room). We may remove content that violates these terms.
-
-## Changes and contact
-
-We may update these terms; continued use after a change means you accept it.
-
-Questions, reports, or appeals: **hello.openrunapp@gmail.com**
-
-See also: [Privacy Policy](./)
+The [Privacy Policy](./) explains how OpenRun handles information. Questions, reports, or appeals: **hello.openrunapp@gmail.com**
