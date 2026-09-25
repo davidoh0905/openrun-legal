@@ -1,6 +1,6 @@
 # OpenRun Privacy Policy
 
-**Effective July 19, 2026**
+**Effective September 24, 2026** · [Terms of Use](./terms.html)
 
 OpenRun helps people coordinate temporary, in-person runs.
 
@@ -9,11 +9,15 @@ OpenRun helps people coordinate temporary, in-person runs.
 OpenRun may process:
 
 - Your Google or Apple account identifier
-- Your name and optional provider profile image
-- Hosted-run details, including time, pace, distance, group size, notes, and precise meeting location
+- Your name, optional @handle, and optional profile photo
+- Hosted-run details, including time, pace, distance, group size, notes, and the precise meeting location the host chooses
 - Join requests and coordination messages
 - Device push-notification tokens
 - Safety reports and blocked-runner records
+- Feedback you send us, including optional screenshots
+- Anonymous product-analytics events (for example “app opened” or “map viewed”) via Mixpanel
+
+Your device location, when you allow it, is used on your phone to center the map and to help you place a meeting pin. It is not uploaded as a location history.
 
 ## How information is used
 
@@ -24,9 +28,10 @@ OpenRun uses this information only to:
 - Coordinate in-person runs
 - Deliver relevant notifications
 - Prevent abuse and respond to safety reports
+- Understand where the app loses people, so we can improve it
 - Provide user support
 
-OpenRun does not sell personal information and does not use advertising trackers.
+OpenRun does not sell personal information, does not use advertising trackers, and does not track you across other companies’ apps or websites.
 
 ## Information visible to others
 
@@ -41,6 +46,7 @@ OpenRun uses:
 - Supabase for authentication, database, realtime updates, and server functions
 - Apple and Google for sign-in
 - Expo for application builds and push-notification delivery
+- Mixpanel for anonymous product analytics
 
 These providers process information under their respective privacy terms.
 
